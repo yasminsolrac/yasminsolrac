@@ -1,5 +1,5 @@
 # 💫 About Me:
-Olá! Me chamo Yasmin Solrac!<br>Graduada no Bacharelado Interdisciplinar de Ciência, Tecnologia e Inovação (UFBA)<br>Cursando Engenharia de Computação (UFBA)<br>Membro do Clube de robótica RobôChicas
+Olá! Me chamo Yasmin Solrac!<br>Graduada no Bacharelado Interdisciplinar de Ciência, Tecnologia e Inovação (UFBA)<br>Cursando Engenharia de Computação (UFBA)<br>
 
 
 # 💻 Tech Stack:
